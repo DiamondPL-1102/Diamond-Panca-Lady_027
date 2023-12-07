@@ -1,4 +1,4 @@
-# Diamond-Panca-Lady_027
+# Tugas Diamond-Panca-Lady_027
 # Tugas Mata Kuliah PBO mengenai perulangan (Loops)
 1. Buatlah perulangan hingga 100 menggunakan Python dengan output sebagai berikut:
 
