@@ -23,7 +23,7 @@ else:
 
 Berikut Screenshot saat code dijalankan :
 
-<img src="https://github.com/DiamondPL-1102/Diamond-Panca-Lady_027/assets/149948656/1662ae45-0880-4664-a70b-4e7121848c9f" width="400">
+<div align="center"><img src="https://github.com/DiamondPL-1102/Diamond-Panca-Lady_027/assets/149948656/1662ae45-0880-4664-a70b-4e7121848c9f" width="400"></div>
 
 ### 2. Buatlah program bebas, dengan menerapkan if else pada:
    
@@ -57,7 +57,7 @@ Berikut Screenshot saat code dijalankan :
 
 Berikut Screenshot saat code dijalankan :
 
-<img src="https://github.com/DiamondPL-1102/Diamond-Panca-Lady_027/assets/149948656/e045d9c0-a64e-4551-9354-a29f418ab487" width="400">
+<div align="center"><img src="https://github.com/DiamondPL-1102/Diamond-Panca-Lady_027/assets/149948656/e045d9c0-a64e-4551-9354-a29f418ab487" width="400"></div>
 
   ##### b. While Loops
     
@@ -82,7 +82,7 @@ Berikut Screenshot saat code dijalankan :
 
 Berikut Screenshot saat code dijalankan :
 
-<img src="https://github.com/DiamondPL-1102/Diamond-Panca-Lady_027/assets/149948656/6abace77-8067-4e5f-827c-61d7e6a65802" width="450">
+<div align="center"><img src="https://github.com/DiamondPL-1102/Diamond-Panca-Lady_027/assets/149948656/6abace77-8067-4e5f-827c-61d7e6a65802" width="450"></div>
 
 ### 3. Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for
    
@@ -104,4 +104,4 @@ Berikut Screenshot saat code dijalankan :
 
   Berikut Screenshot saat code dijalankan :
   
-<img src="https://github.com/DiamondPL-1102/Diamond-Panca-Lady_027/assets/149948656/a36f924c-554e-48b2-8e79-b4afd7ed859c" width="450">
+<div align="center"><img src="https://github.com/DiamondPL-1102/Diamond-Panca-Lady_027/assets/149948656/a36f924c-554e-48b2-8e79-b4afd7ed859c" width="450"></div>
