@@ -19,7 +19,7 @@ else:
 
     print(i)
     
-//jika kondisi salah maka kode else akan dieksekusi. 
+//kode tersebut menjelaskan jika kondisi salah maka kode else akan dieksekusi. 
 
 Berikut Screenshot saat code dijalankan :
 
@@ -33,7 +33,7 @@ Berikut Screenshot saat code dijalankan :
 
  pembahasan :
 
-   a. For Loops
+   ##### a. For Loops
   
     print("Program dengan menerapkan if else pada For Loops :")
    
@@ -53,13 +53,13 @@ Berikut Screenshot saat code dijalankan :
    
         print(f"{i} adalah bilangan ganjil.")
    
-     // jika sisa bagi tidak sama dengan 0 maka perintah else akan dieksekusi dan mengeluarkan output bilangan ganjil.
+     // kode diatas menjelaskan jika sisa bagi tidak sama dengan 0 maka perintah else akan dieksekusi dan mengeluarkan output bilangan ganjil.
 
 Berikut Screenshot saat code dijalankan :
 
 <img src="https://github.com/DiamondPL-1102/Diamond-Panca-Lady_027/assets/149948656/e045d9c0-a64e-4551-9354-a29f418ab487" width="400">
 
-  b. While Loops
+  ##### b. While Loops
     
     print("Program dengan menerapkan if else pada While Loops:")
     // perintah print ini digunakan untuk menampilkan teks yang sudah dibuat.
@@ -78,7 +78,7 @@ Berikut Screenshot saat code dijalankan :
         print(f"{i} adalah bilangan ganjil.")
     i += 3
     
-    // jika sisa bagi tidak sama dengan 0 maka perintah else akan dieksekusi dan mengeluarkan output bilangan ganjil. Dan nilai variabel i akan bertambah 3 setiap terjadi perulangan/loops hingga loops berhenti.
+    // kode diatas menjelaskan jika sisa bagi tidak sama dengan 0 maka perintah else akan dieksekusi dan mengeluarkan output bilangan ganjil. Dan nilai variabel i akan bertambah 3 setiap terjadi perulangan/loops hingga loops berhenti.
 
 Berikut Screenshot saat code dijalankan :
 
@@ -100,7 +100,7 @@ Berikut Screenshot saat code dijalankan :
 
       print(nilai)
    
-   // digunakan untuk mengulang setiap daftar nilai yang ada pada variabel list_NilaiUAS kemudian perintah print akan menampilkan seluruh nilai yang ada di variabel nilai
+   // kode diatas digunakan untuk mengulang setiap daftar nilai yang ada pada variabel list_NilaiUAS kemudian perintah print akan menampilkan seluruh nilai yang ada di variabel nilai
 
   Berikut Screenshot saat code dijalankan :
   
